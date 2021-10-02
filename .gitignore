@@ -1,0 +1,10 @@
+## Jekyll
+.sass-cache/
+_site/
+
+## Firebase
+.firebaserc
+.firebase/
+
+## Other
+**/.DS_Store
