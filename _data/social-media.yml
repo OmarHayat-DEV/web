@@ -1,8 +1,8 @@
 email:
-  id: 'omar.hayat613@gmail.com'
-  href: 'mailto:'
+  id: 'OmarHayat.pdf'
+  href: 'https://omarhayat-dev.github.io/web/'
   title: 'Email'
-  fa-icon: 'fa-paper-plane'
+  fa-icon: 'file-alt'
 
 github:
   id: 'OmarHayat-DEV'
@@ -22,4 +22,4 @@ resume:
   title: 'Resume'
   fa-icon: 'file-alt'
 
-  
+
