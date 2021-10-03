@@ -1,23 +1,23 @@
 email:
-  id: 'bazarjani.kian@gmail.com'
+  id: 'omar.hayat613@gmail.com'
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fa-paper-plane'
 
 github:
-  id: 'BazzaDEV'
+  id: 'OmarHayat-DEV'
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github'
 
 linkedin:
-  id: 'kianbazza'
+  id: 'omarhayat1'
   href: 'https://www.linkedin.com/in/'
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin'
 
 twitter:
-  id: 'BazzaDEV'
-  href: 'https://www.twitter.com/'
-  title: 'Twitter'
-  fa-icon: 'fa-twitter'
+  id: 'OmarHayat.pdf'
+  href: 'https://omarhayat-dev.github.io/web/'
+  title: 'Resume'
+  fa-icon: 'file-alt'
