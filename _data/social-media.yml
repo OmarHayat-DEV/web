@@ -16,7 +16,7 @@ linkedin:
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin'
 
-twitter:
+resume:
   id: 'OmarHayat.pdf'
   href: 'https://omarhayat-dev.github.io/web/'
   title: 'Resume'
