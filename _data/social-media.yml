@@ -12,7 +12,7 @@ github:
 
 linkedin:
   id: 'omarhayat1'
-  href: 'https://omarhayat-dev.github.io/web/'
+  href: 'https://www.linkedin.com/in/'
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin'
 
@@ -21,3 +21,5 @@ resume:
   href: 'https://omarhayat-dev.github.io/web/'
   title: 'Resume'
   fa-icon: 'file-alt'
+
+  
