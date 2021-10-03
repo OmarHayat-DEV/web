@@ -1,8 +1,14 @@
+resume:
+  id: 'OmarHayat.pdf'
+  href: 'https://omarhayat-dev.github.io/web/'
+  title: 'Resume'
+  fa-icon: 'fa-file-text-o'
+
 email:
   id: 'omar.hayat613@gmail.com'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-paper-plane'
+  fa-icon: 'fa-envelope-o'
 
 github:
   id: 'OmarHayat-DEV'
@@ -16,8 +22,4 @@ linkedin:
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin'
 
-resume:
-  id: 'OmarHayat.pdf'
-  href: 'https://omarhayat-dev.github.io/web/'
-  title: 'Resume'
-  fa-icon: 'fa-file-text-o'
+
