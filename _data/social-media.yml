@@ -16,3 +16,9 @@ linkedin:
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin'
 
+
+resume:
+  id: 'OmarHayat.pdf'
+  href: 'https://omarhayat-dev.github.io/web/'
+  title: 'Resume'
+  fa-icon: 'file-alt'
